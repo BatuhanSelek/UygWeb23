@@ -6,7 +6,7 @@ router.post('/register', register)
 
 /*router.post("/register",register)*/
 //post : Veri Gönderme
-//get : Vrri Alma
+//get : Veri Alma
 //put : Veri Güncelleme
 //patch : Veri Güncelleme
 //delete : Veri Silme
